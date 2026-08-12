@@ -3,6 +3,10 @@
     ["+", "Initial release"]
   ],
   "Fallen": [
-    ["+", "Initial release"]
+    ["+", "Icon inv viewer"],
+    ["+", "Remove Grass"],
+    ["~", "Flickering status"],
+    ["+", "Fake Position"],
+    ["-", "Model sandboxing"]
   ],
 }
