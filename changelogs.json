@@ -3,9 +3,8 @@
     ["+", "Initial release"]
   ],
   "Fallen": [
-    ["+", "Icon inv viewer"],
-    ["+", "Remove Grass"],
-    ["~", "Flickering status"],
-    ["-", "Model sandboxing"]
+    ["+", "New manip"],
+    ["+", "Wallbang cache"],
+    ["~", "Bypass"],
   ],
 }
