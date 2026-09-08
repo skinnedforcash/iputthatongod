@@ -3,8 +3,9 @@
     ["+", "Initial release"]
   ],
   "Fallen": [
-    ["+", "New manip"],
-    ["+", "Wallbang cache"],
-    ["~", "Bypass"],
+    ["+", "Minor origin shift changes"],
+    ["+", "Cache subtab"],
+    ["+", "New wallbang angle fix ( third person! )"],
+    ["~", "Underground fix"],
   ],
 }
